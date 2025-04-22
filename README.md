@@ -2,14 +2,12 @@
 We’ve released two versions of software for farming Nodepay:
 
 1) 🔥 FREE version works only with accounts registered through it.
-  * **Download free version in our Telegram bot:** 
+  * **Download free version in our Telegram bot:** https://t.me/FAMERS0FT
 
 2) 💎 PAID version supports any accounts — register using your own referral code!
-  * **DM us for the paid version in Telegram:** 
+  * **DM us for the paid version in Telegram:** https://t.me/FAMERS0FT
 
-- 📩 Telegram chat: 
-- 📩 Telegram channel: 
-- 📩 Developer: 
+- 📩 Contacts: https://t.me/FAMERS0FT
 
 - - -
 
@@ -118,6 +116,4 @@ Invite your friends and colleagues to join! 🚀
 * Use `proxy.txt` for proxies.
 
 # 🔗 Contacts
-* 📩 Telegram chat: 
-* 📩 Telegram channel: 
-* 📩 Developer: 
+* 📩 https://t.me/FAMERS0FT
